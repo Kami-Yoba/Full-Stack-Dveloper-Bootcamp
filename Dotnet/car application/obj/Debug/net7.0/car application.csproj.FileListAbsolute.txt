@@ -1,0 +1,15 @@
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\bin\Debug\net7.0\car application.exe
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\bin\Debug\net7.0\car application.deps.json
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\bin\Debug\net7.0\car application.runtimeconfig.json
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\bin\Debug\net7.0\car application.dll
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\bin\Debug\net7.0\car application.pdb
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.csproj.AssemblyReference.cache
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.AssemblyInfoInputs.cache
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.AssemblyInfo.cs
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.csproj.CoreCompileInputs.cache
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.dll
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\refint\car application.dll
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.pdb
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\car application.genruntimeconfig.cache
+C:\Users\35845\OneDrive\Desktop\Full-stack-developer\Dotnet\car application\obj\Debug\net7.0\ref\car application.dll

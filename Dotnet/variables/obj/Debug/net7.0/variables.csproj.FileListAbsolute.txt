@@ -1,0 +1,15 @@
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\bin\Debug\net7.0\variables.exe
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\bin\Debug\net7.0\variables.deps.json
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\bin\Debug\net7.0\variables.runtimeconfig.json
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\bin\Debug\net7.0\variables.dll
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\bin\Debug\net7.0\variables.pdb
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.csproj.AssemblyReference.cache
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.AssemblyInfoInputs.cache
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.AssemblyInfo.cs
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.dll
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\refint\variables.dll
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.pdb
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\variables.genruntimeconfig.cache
+C:\Users\35845\OneDrive\Desktop\Full stack developer\Dotnet\variables\obj\Debug\net7.0\ref\variables.dll
