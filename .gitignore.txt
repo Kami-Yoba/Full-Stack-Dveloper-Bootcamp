@@ -1,0 +1,6 @@
+Dotnet/car application/obj
+Dotnet/HelloWorld/obj
+Dotnet/variables/obj
+Dotnet/car application/bin
+Dotnet/variables/bin
+Dotnet/HelloWorld/bin
