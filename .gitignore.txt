@@ -1,6 +1,19 @@
-Dotnet/car application/obj
-Dotnet/HelloWorld/obj
-Dotnet/variables/obj
-Dotnet/car application/bin
-Dotnet/variables/bin
-Dotnet/HelloWorld/bin
+DotNet/Variables/obj
+DotNet/Variables/bin
+DotNet/PalindromeDetect/bin
+DotNet/PalindromeDetect/obj
+DotNet/NumberGuessingGame/.vscode
+DotNet/NumberGuessingGame/bin
+DotNet/NumberGuessingGame/obj
+DotNet/ObjectOrientedProgramming/.vscode
+DotNet/ObjectOrientedProgramming/obj
+DotNet/ObjectOrientedProgramming/bin
+DotNet/FileSum/.vscode
+DotNet/FileSum/bin
+DotNet/FileSum/obj
+DotNet/DateProcessing/.vscode
+DotNet/DateProcessing/bin
+DotNet/DateProcessing/obj
+DotNet/ExceptionHandling/.vscode
+DotNet/ExceptionHandling/bin
+DotNet/ExceptionHandling/obj
